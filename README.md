@@ -1,5 +1,5 @@
 <!-- For profile views I used an opensource project https://github.com/antonkomarev/github-profile-views-counter -->
-<img src = "https://komarev.com/ghpvc/?username=saqib40&color=cyan&style=flat-square" alt ="Profile Views">
+<img src = "https://komarev.com/ghpvc/?username=Sameem-baba&color=orange&style=flat-square" alt ="Profile Views">
 
 ## About Me :
 
@@ -25,5 +25,8 @@
   </a>
   <a href="https://www.instagram.com/sameem.eth/">
     <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/sameem_eth/">
+    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
