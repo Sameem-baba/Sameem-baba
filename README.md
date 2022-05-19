@@ -26,7 +26,7 @@
   <a href="https://www.instagram.com/sameem.eth/">
     <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/sameem_eth/">
+  <a href="https://twitter.com/sameem_baba/">
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
