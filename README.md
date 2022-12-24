@@ -5,9 +5,9 @@
 	<h1>Hi! I'm <a href="https://sameem.netlify.app/">Sameem</a> 🐬 !</h1>
 	<div>Rookie programmer; professional bug creator</div>
 	<br />
-	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-Window/Window-cdd6f4?style=flat" /></a>
-	<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-vscode-a6e3a1?style=flat&logo=VSCode" /></a>
-	<a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/LANG-Javascript-f2cdcd?style=flat&logo=javascript" /></a>
+	<a href=""><img src="https://img.shields.io/badge/OS-Window?style=flat" /></a>
+	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/EDITOR-vscode-a6e3a1?style=flat&logo=vscode" /></a>
+	<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/LANG-Javascript-f2cdcd?style=flat&logo=javascript" /></a>
 	<br />
 	<a href="https://github.com/Sameem-baba"><img src="https://img.shields.io/github/stars/mathletedev?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
 	<a href="mailto:sameembaba22@gmail.com/"><img src="https://img.shields.io/badge/EMAIL-sameembaba22@gmail.com-b4befe?style=flat&logo=protonmail" /></a>
@@ -20,7 +20,7 @@
 <details>
 	<summary>Projects</summary>
 	<ul>
-		<li><a href="https://sameem.netlify.app/">MathleteDev</a> - Portfolio</li>
+		<li><a href="https://sameem.netlify.app/">Sameem</a> - Portfolio</li>
 		<li><a href="https://www.theranch.community/">The Ranch</a> - A NFT Project</li>
 		<li><a href="https://21consequences.vercel.app/">21Consequences</a> - Career Couselling App</li>
 		<li><a href="https://github.com/Sameem-baba/Twitter-Web3">Twitter Web3</a> - Twitter Clone</li>
