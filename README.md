@@ -5,11 +5,11 @@
 	<h1>Hi! I'm <a href="https://sameem.netlify.app/">Sameem</a> 🐬 !</h1>
 	<div>Rookie programmer; professional bug creator</div>
 	<br />
-	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-Window/Window-cdd6f4?style=flat&logo=Window" /></a>
+	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-Window/Window-cdd6f4?style=flat" /></a>
 	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/Javascript-74c7ec?style=flat&logo=javascript" /></a>
 	<a href="https://xmonad.org"><img src="https://img.shields.io/badge/DE-XMonad-eba0ac?style=flat&logo=haskell" /></a>
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" /></a>
-	<a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/LANG-Rust-f2cdcd?style=flat&logo=rust" /></a>
+	<a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/LANG-Javascript-f2cdcd?style=flat&logo=javascript" /></a>
 	<br />
 	<a href="https://github.com/Sameem-baba"><img src="https://img.shields.io/github/stars/mathletedev?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
 	<a href="mailto:sameembaba22@gmail.com/"><img src="https://img.shields.io/badge/EMAIL-sameembaba22@gmail.com-b4befe?style=flat&logo=protonmail" /></a>
