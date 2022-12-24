@@ -6,7 +6,7 @@
 	<div>Rookie programmer; professional bug creator</div>
 	<br />
 	<a href=""><img src="https://img.shields.io/badge/OS-Window?style=flat" /></a>
-	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/EDITOR-vscode-a6e3a1?style=flat&logo=vscode" /></a>
+	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/EDITOR-Vscode-a6e3a1?style=flat&logo=VScode" /></a>
 	<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/LANG-Javascript-f2cdcd?style=flat&logo=javascript" /></a>
 	<br />
 	<a href="https://github.com/Sameem-baba"><img src="https://img.shields.io/github/stars/mathletedev?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
