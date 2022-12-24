@@ -1,17 +1,37 @@
 <!-- For profile views I used an opensource project https://github.com/antonkomarev/github-profile-views-counter -->
-<img src = "https://komarev.com/ghpvc/?username=Sameem-baba&color=orange&style=flat-square" alt ="Profile Views">
+<img src = "https://komarev.com/ghpvc/?username=Sameem-baba&color=blue&style=flat-square" alt ="Profile Views">
 
-## About Me :
+<div align="center">
+	<h1>Hi! I'm <a href="https://sameem.netlify.app/">Sameem</a> 🐬 !</h1>
+	<div>Rookie programmer; professional bug creator</div>
+	<br />
+	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
+	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-74c7ec?style=flat&logo=arch-linux" /></a>
+	<a href="https://xmonad.org"><img src="https://img.shields.io/badge/DE-XMonad-eba0ac?style=flat&logo=haskell" /></a>
+	<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" /></a>
+	<a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/LANG-Rust-f2cdcd?style=flat&logo=rust" /></a>
+	<br />
+	<a href="https://github.com/Sameem-baba"><img src="https://img.shields.io/github/stars/mathletedev?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
+	<a href="mailto:sameembaba22@gmail.com/"><img src="https://img.shields.io/badge/EMAIL-nealwang.sh@pm.me-b4befe?style=flat&logo=protonmail" /></a>
+	<a href="https://discord.gg/RRfW8FrX3E"><img src="https://img.shields.io/discord/831364077875626015?color=74c7ec&label=DISCORD&logo=discord" /></a>
+	<a href="https://www.youtube.com/channel/UCO4LrmJq3Ix_riX8HVTds2Q"><img src="https://img.shields.io/badge/YT-MathleteDev-eba0ac?style=flat&logo=youtube" /></a>
+	<br />
+	<br />
+	<img src="https://github-readme-stats.vercel.app/api?username=Sameem-baba&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameem-baba&hide_title=true&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+</div>
 
-- I am a Web3 Developer learning Solidity at the moment
-
-- I also have a YouTube Channel where I will be sharing How to build web3 projects!
-
-## My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sameem-baba&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameem-baba&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+	<summary>Projects</summary>
+	<ul>
+		<li><a href="https://sameem.netlify.app/">MathleteDev</a> - Portfolio</li>
+		<li><a href="https://www.theranch.community/">The Ranch</a> - A NFT Project</li>
+		<li><a href="https://21consequences.vercel.app/">21Consequences</a> - Career Couselling App</li>
+		<li><a href="https://github.com/Sameem-baba/Twitter-Web3">Twitter Web3</a> - Twitter Clone</li>
+		<li><a href="https://github.com/Sameem-baba/CleverBot">Clever Bot</a> - Space Discord Bot</li>
+		<li><a href="https://github.com/Sameem-baba/Spotify-next-js">Spotify</a> - Clone App</li>
+	</ul>
+</details>
 
 ## Me On Internet:
 
@@ -24,7 +44,7 @@
     <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.instagram.com/sameem.eth/">
-    <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/sameem_baba/">
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram Badge"/>
