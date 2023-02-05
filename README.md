@@ -13,8 +13,8 @@
 	<a href="mailto:sameembaba22@gmail.com/"><img src="https://img.shields.io/badge/EMAIL-sameembaba22@gmail.com-b4befe?style=flat&logo=protonmail" /></a>
 	<br />
 	<br />
-	<img src="https://github-readme-stats.vercel.app/api?username=Sameem-baba&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameem-baba&hide_title=true&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+<!-- 	<img src="https://github-readme-stats.vercel.app/api?username=Sameem-baba&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameem-baba&hide_title=true&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" /> -->
 </div>
 
 <details>
