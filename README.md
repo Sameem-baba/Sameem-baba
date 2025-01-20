@@ -28,21 +28,3 @@
 		<li><a href="https://github.com/Sameem-baba/Spotify-next-js">Spotify</a> - Clone App</li>
 	</ul>
 </details>
-
-## Me On Internet:
-
-<!-- For badges I used https://shields.io/ -->
-<div id="badges">
-  <a href="https://www.linkedin.com/in/sameembaba24/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCO4LrmJq3Ix_riX8HVTds2Q">
-    <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.instagram.com/sameem.eth/">
-    <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/sameem_baba/">
-    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
