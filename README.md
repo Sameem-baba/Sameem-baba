@@ -3,7 +3,7 @@
 
 <div align="center">
 	<h1>Hi! I'm <a href="https://sameem.netlify.app/">Sameem</a> 🐬 !</h1>
-	<div>Rookie programmer; professional bug creator</div>
+	<div>Rookie programmer</div>
 	<br />
 	<a href=""><img src="https://img.shields.io/badge/OS-Windows/Windows-cdd6f4?style=flat" /></a>
 	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/EDITOR-Vscode-a6e3a1?style=flat&logo=VScode" /></a>
