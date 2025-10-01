@@ -5,10 +5,11 @@
 	<h1>Hi! I'm <a href="https://sameem.netlify.app/">Sameem</a> 🐬 !</h1>
 	<div>Rookie programmer</div>
 	<br />
+		<a href=""><img src="https://img.shields.io/badge/OS-Arch-Linux?style=flat&logo=archlinux" /></a>
 	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/EDITOR-Vscode-a6e3a1?style=flat&logo=VScode" /></a>
 	<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/LANG-Javascript-f2cdcd?style=flat&logo=javascript" /></a>
 	<br />
-	<a href="https://github.com/Sameem-baba"><img src="https://img.shields.io/github/stars/mathletedev?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
+	<a href="https://github.com/Sameem-baba"><img src="https://img.shields.io/github/stars/Sameem-baba?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
 	<a href="mailto:sameembaba22@gmail.com/"><img src="https://img.shields.io/badge/EMAIL-sameembaba22@gmail.com-b4befe?style=flat&logo=protonmail" /></a>
 	<br />
 	<br />
