@@ -5,7 +5,6 @@
 	<h1>Hi! I'm <a href="https://sameem.netlify.app/">Sameem</a> 🐬 !</h1>
 	<div>Rookie programmer</div>
 	<br />
-	<a href=""><img src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" /></a>
 	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/EDITOR-Vscode-a6e3a1?style=flat&logo=VScode" /></a>
 	<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/LANG-Javascript-f2cdcd?style=flat&logo=javascript" /></a>
 	<br />
