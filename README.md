@@ -1,5 +1,5 @@
 <!-- For profile views I used an opensource project https://github.com/antonkomarev/github-profile-views-counter -->
-<img src = "https://komarev.com/ghpvc/?username=Sameem-baba&color=blue&style=flat-square" alt ="Profile Views">
+<!-- <img src = "https://komarev.com/ghpvc/?username=Sameem-baba&color=blue&style=flat-square" alt ="Profile Views"> -->
 
 <div align="center">
 	<h1>Hi! I'm <a href="https://sameem.netlify.app/">Sameem</a> 🐬 !</h1>
@@ -17,7 +17,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameem-baba&hide_title=true&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" /> -->
 </div>
 
-<details>
+<!-- <details>
 	<summary>Projects</summary>
 	<ul>
 		<li><a href="https://sameem.netlify.app/">Sameem</a> - Portfolio</li>
@@ -27,4 +27,4 @@
 		<li><a href="https://github.com/Sameem-baba/CleverBot">Clever Bot</a> - Space Discord Bot</li>
 		<li><a href="https://github.com/Sameem-baba/Spotify-next-js">Spotify</a> - Clone App</li>
 	</ul>
-</details>
+</details> -->
