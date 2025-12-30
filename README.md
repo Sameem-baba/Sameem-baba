@@ -6,28 +6,71 @@
 
 ---
 
-<!-- OS / Editor / Contact -->
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-Sameem--baba-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Email-sameembaba22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  <a href="mailto:sameembaba22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sameem-baba">
+    <img src="https://img.shields.io/badge/GitHub-Sameem--baba-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🌱 I’m currently learning **JavaScript** & **Rust**  
-- 💡 I love exploring new technologies and improving my coding skills  
-- 🌿 Always experimenting, always learning  
-- 💬 Ask me about **Linux**, **Rust**, or **JavaScript**
+```rust
+struct Developer {
+    languages: Vec<&'static str>,
+    environment: &'static str,
+    focus: Vec<&'static str>,
+    philosophy: &'static str,
+}
+
+impl Developer {
+    fn sameem() -> Self {
+        Self {
+            languages: vec!["Rust", "JavaScript", "TypeScript", "Python"],
+            environment: "Arch Linux",
+            focus: vec![
+                "Browser internals",
+                "Developer tooling",
+                "Maintainable abstractions",
+                "Open-source systems",
+            ],
+            philosophy: "Prefer clarity over cleverness. Read the source. Ship thoughtfully.",
+        }
+    }
+}
+```
 
 ---
 
-### ⚙️ Languages & Tools
+## 🚀 Featured Open-Source Work
+
+- **Mozilla Firefox (WebDriver BiDi)**
+  - Refactored repeated emulation logic into shared helpers
+  - Improved maintainability across multiple commands
+
+- **Mozsearch / Searchfox**
+  - Fixed outdated repository tree-list logic
+  - Improved context menu behavior and UI consistency
+
+- **Peersky Browser (Electron, P2P)**
+  - Implemented persistent navigation history
+  - Enhanced tab management and settings logic
+
+---
+
+## ⚙️ Languages & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,rust,python,html,css,nodejs,linux,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=rust,js,ts,python,html,css,nodejs,linux,git,vscode&theme=dark" />
 </p>
