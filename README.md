@@ -53,22 +53,6 @@ impl Developer {
 
 ---
 
-## 🚀 Featured Open-Source Work
-
-- **Mozilla Firefox (WebDriver BiDi)**
-  - Refactored repeated emulation logic into shared helpers
-  - Improved maintainability across multiple commands
-
-- **Mozsearch / Searchfox**
-  - Fixed outdated repository tree-list logic
-  - Improved context menu behavior and UI consistency
-
-- **Peersky Browser (Electron, P2P)**
-  - Implemented persistent navigation history
-  - Enhanced tab management and settings logic
-
----
-
 ## ⚙️ Languages & Tools
 
 <p align="center">
