@@ -24,35 +24,6 @@
 
 ---
 
-## 🧠 About Me
-
-```rust
-struct Developer {
-    languages: Vec<&'static str>,
-    environment: &'static str,
-    focus: Vec<&'static str>,
-    philosophy: &'static str,
-}
-
-impl Developer {
-    fn sameem() -> Self {
-        Self {
-            languages: vec!["Rust", "JavaScript", "TypeScript", "Python"],
-            environment: "Arch Linux",
-            focus: vec![
-                "Browser internals",
-                "Developer tooling",
-                "Maintainable abstractions",
-                "Open-source systems",
-            ],
-            philosophy: "Prefer clarity over cleverness. Read the source. Ship thoughtfully.",
-        }
-    }
-}
-```
-
----
-
 ## ⚙️ Languages & Tools
 
 <p align="center">
